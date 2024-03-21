@@ -23,11 +23,14 @@ Text chat Android app made with Flutter and Firebase. University project for the
 <div>
     <img src="screenshots/login.png" width="300">
     <img src="screenshots/chat.png" width="300">
-    <img src="screenshots/file.png" width="300">
 </div>
 
 <div>
+    <img src="screenshots/file.png" width="300">
     <img src="screenshots/geo-list.png" width="300">
+</div>
+
+<div>
     <img src="screenshots/geo-room.png" width="300">
     <img src="screenshots/search.png" width="300">
 </div>
