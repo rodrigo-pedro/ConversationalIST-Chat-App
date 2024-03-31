@@ -44,7 +44,7 @@ Text chat Android app made with Flutter and Firebase. University project for the
 
 - Flutter 3.7.0
 - Google Maps API key
-- Firebase project with Firestore, Storage, and Cloud Messaging enabled
+- Firebase project with Firestore, Authentication, Cloud Messaging and Cloud Functions
 
 ## Setup
 
